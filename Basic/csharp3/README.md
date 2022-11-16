@@ -21,5 +21,10 @@ Para realizar a conversão você deve:
 The temperature is 34.444444444444444444444444447 Celsius.
 ```
 
+## Desafio
+Caso neste momento você ache interessante se desafiar, busque transformar este resultado de um número com tantas casas decimais em um número com 1 ou 2 casas decimais apenas.
+
+Aqui não há uma única solução, existem várias, você pode adotar a que você entender melhor.
+
 ## Conteúdo
 Em caso de dúvidas, você pode consultar o material neste [link](https://learn.microsoft.com/en-us/training/modules/csharp-basic-operations/).
